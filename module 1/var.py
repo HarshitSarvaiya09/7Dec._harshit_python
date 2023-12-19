@@ -1,4 +1,4 @@
-a=34 #int
+a=43 #int
 b=67 #int
 
 print(a+b)
